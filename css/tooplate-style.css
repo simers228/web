@@ -1,4 +1,4 @@
-/* 
+/*
 
 Template 2091 Ziggy
 
@@ -100,7 +100,7 @@ p {
 	letter-spacing: 1px;
 	text-align: right;
 	position: absolute;
-	left: 900px;
+	left: 800px;
 	bottom: 275px;
 }
 
@@ -117,7 +117,7 @@ p {
 	letter-spacing: 1px;
 	text-align: right;
 	position: absolute;
-	left: 900px;
+	left: 800px;
 	bottom: 200px;
 }
 
@@ -134,8 +134,24 @@ p {
 	letter-spacing: 1px;
 	text-align: left;
 	position: absolute;
-	left: 900px;
+	left: 800px;
 	bottom: 125px;
+}
+.section1-4-button{
+	text-decoration: none;
+	padding: 10px 42px;
+	display: inline-block;
+	border-radius: 24px;
+	font-size: 13px;
+	text-transform: uppercase;
+	font-weight: 700;
+	background-color: #415b90;
+	color: #fff;
+	letter-spacing: 1px;
+	text-align: left;
+	position: absolute;
+	left: 800px;
+	bottom: 50px;
 }
 
 .second-section {
@@ -184,7 +200,7 @@ p {
 
 .third-section .right-text {
 	display: inline;
-	
+
 	right: 450px;
 	bottom: 0px;
 
@@ -799,7 +815,7 @@ footer a:hover {
 	.fivth-section .right-image img {
 		width: 80%;
 	}
-	
+
 }
 
 /*========================================
